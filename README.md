@@ -15,3 +15,5 @@ for the first time and
 for any future users.
 
 If you don't have `htpasswd`  (like on cloud9) then you can use a tool like [this htpasswd generator](http://www.htaccesstools.com/htpasswd-generator/)
+
+#### This method is a simple way to protect static sites.  It doesn't allow users to register (although you could do it) and (as far as I know) it doesn't allow AJAX requests through
